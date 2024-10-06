@@ -1,0 +1,10 @@
+/*hey my name is simran gupta
+this is my second class*/
+
+-- arithmetric operator 
+Select 10+5; 
+Select 30-14; 
+select  10*5; 
+select 20*4; 
+
+select 10&5;
